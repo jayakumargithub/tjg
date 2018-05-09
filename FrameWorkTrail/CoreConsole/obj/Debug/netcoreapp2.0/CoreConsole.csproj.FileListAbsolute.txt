@@ -1,0 +1,13 @@
+C:\TJG\FrameWorkTrail\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.csprojResolveAssemblyReference.cache
+C:\TJG\FrameWorkTrail\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.csproj.CoreCompileInputs.cache
+C:\TJG\FrameWorkTrail\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.AssemblyInfoInputs.cache
+C:\TJG\FrameWorkTrail\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.AssemblyInfo.cs
+C:\TJG\FrameWorkTrail\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.deps.json
+C:\TJG\FrameWorkTrail\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.runtimeconfig.json
+C:\TJG\FrameWorkTrail\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.runtimeconfig.dev.json
+C:\TJG\FrameWorkTrail\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.dll
+C:\TJG\FrameWorkTrail\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.pdb
+C:\TJG\FrameWorkTrail\CoreConsole\bin\Debug\netcoreapp2.0\StdLibraryOne.dll
+C:\TJG\FrameWorkTrail\CoreConsole\bin\Debug\netcoreapp2.0\StdLibraryOne.pdb
+C:\TJG\FrameWorkTrail\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.dll
+C:\TJG\FrameWorkTrail\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.pdb

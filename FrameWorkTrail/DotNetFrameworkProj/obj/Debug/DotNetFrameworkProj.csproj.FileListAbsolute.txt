@@ -1,0 +1,5 @@
+C:\TJG\FrameWorkTrail\DotNetFrameworkProj\bin\Debug\DotNetFrameworkProj.dll
+C:\TJG\FrameWorkTrail\DotNetFrameworkProj\bin\Debug\DotNetFrameworkProj.pdb
+C:\TJG\FrameWorkTrail\DotNetFrameworkProj\obj\Debug\DotNetFrameworkProj.csproj.CoreCompileInputs.cache
+C:\TJG\FrameWorkTrail\DotNetFrameworkProj\obj\Debug\DotNetFrameworkProj.dll
+C:\TJG\FrameWorkTrail\DotNetFrameworkProj\obj\Debug\DotNetFrameworkProj.pdb

@@ -1,0 +1,7 @@
+C:\TJG\FrameWorkTrail\WcfService\bin\WcfService.dll.config
+C:\TJG\FrameWorkTrail\WcfService\bin\WcfService.dll
+C:\TJG\FrameWorkTrail\WcfService\bin\WcfService.pdb
+C:\TJG\FrameWorkTrail\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\TJG\FrameWorkTrail\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\TJG\FrameWorkTrail\WcfService\obj\Debug\WcfService.dll
+C:\TJG\FrameWorkTrail\WcfService\obj\Debug\WcfService.pdb

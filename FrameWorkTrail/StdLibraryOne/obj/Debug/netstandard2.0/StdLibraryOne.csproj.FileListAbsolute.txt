@@ -1,0 +1,12 @@
+C:\TJG\FrameWorkTrail\StdLibraryOne\obj\Debug\netstandard2.0\StdLibraryOne.csprojResolveAssemblyReference.cache
+C:\TJG\FrameWorkTrail\StdLibraryOne\obj\Debug\netstandard2.0\StdLibraryOne.csproj.CoreCompileInputs.cache
+C:\TJG\FrameWorkTrail\StdLibraryOne\obj\Debug\netstandard2.0\StdLibraryOne.AssemblyInfoInputs.cache
+C:\TJG\FrameWorkTrail\StdLibraryOne\obj\Debug\netstandard2.0\StdLibraryOne.AssemblyInfo.cs
+C:\TJG\FrameWorkTrail\StdLibraryOne\obj\Debug\netstandard2.0\StdLibraryOne.dll
+C:\TJG\FrameWorkTrail\StdLibraryOne\obj\Debug\netstandard2.0\StdLibraryOne.pdb
+C:\TJG\FrameWorkTrail\StdLibraryOne\bin\StdLibraryOne.deps.json
+C:\TJG\FrameWorkTrail\StdLibraryOne\bin\StdLibraryOne.dll
+C:\TJG\FrameWorkTrail\StdLibraryOne\bin\StdLibraryOne.pdb
+C:\TJG\FrameWorkTrail\StdLibraryOne\bin\Debug\netstandard2.0\StdLibraryOne.deps.json
+C:\TJG\FrameWorkTrail\StdLibraryOne\bin\Debug\netstandard2.0\StdLibraryOne.dll
+C:\TJG\FrameWorkTrail\StdLibraryOne\bin\Debug\netstandard2.0\StdLibraryOne.pdb
